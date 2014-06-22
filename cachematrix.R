@@ -10,8 +10,8 @@
 ## 
 ## Usage:       m<-makeCacheMatrix()
 ##              m$set(matrix)
-##              cachesolve(m)
-##              cachsolve(m)    ## repeated retrieves from cache
+##              matrixInv<-cachesolve(m)
+##              matrixInv<-cachsolve(m)    ## repeated retrieves from cache
 ##
 ## Assumes the souce matrix is invertible, works on any size matrix
 
