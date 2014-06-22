@@ -1,7 +1,7 @@
 ##
 ## This source contains two functions: makeCacheMatrix and cacheSolve 
 ##
-## makeCacheMatrix is used to store and retrive a matrix and its inverse
+## makeCacheMatrix is used to store and retrieve a matrix and its inverse
 ##
 ## cacheSolve is used to do the actual matrix inversion, and store the result 
 ## back in the space created by makeCacheMatrix. 
