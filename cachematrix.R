@@ -9,6 +9,7 @@
 ## If the inverse has already been calculated it will be retieved to save time
 ## 
 ## Usage:       m<-makeCacheMatrix()
+##              m$set(matrix)
 ##              cachesolve(m)
 ##              cachsolve(m)    ## repeated retrieves from cache
 ##
