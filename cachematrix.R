@@ -12,4 +12,10 @@ makeCacheMatrix <- function(x = matrix()) {
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
+        print("This is just a test of Git hib first!")
+        print("Just not working!!!")
+        
+        
 }
+
+
